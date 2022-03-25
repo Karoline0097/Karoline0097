@@ -2,16 +2,19 @@
 
 ### Learning Journey
 
-* 2016-22: Medicine School @LMU Munich
-* 2021-22: Ovarian Cancer Research @LMU Munich Medical Research School @LMU Hospital
-
 * since 2022: Self learning to program at:
 [MITx Introduction to Computer Science and Programming Using Python 6.00.1x ](https://www.edx.org/course/introduction-to-computer-science-and-programming-7).
 [University of Michigan Python for Everybody](https://www.coursera.org/specializations/python).
 
-### Programming Languages
+* 2021-22: Ovarian Cancer Research @LMU Munich Medical Research School @LMU Hospital
+* 2016-22: Medicine School @LMU Munich
+
+### Programming Languages 
 * Python 
 * SQL 
+
+### My Projects
+* [Repository](https://github.com/Karoline0097/Introduction-to-Computer-Science-and-Programming-Using-Python) from [MITx Introduction to Computer Science and Programming Using Python 6.00.1x ](https://www.edx.org/course/introduction-to-computer-science-and-programming-7)
 
 ### Learning Interests
 * Data Analysis
