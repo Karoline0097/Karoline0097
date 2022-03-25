@@ -1,12 +1,23 @@
-## 🌱 
+## 🌱 About 🔬
 
-- 👩‍🎓 I'm enrolled in Medicine School at LMU Munich (2016-2022) 
-- ‍🔬 Ovarian Cancer Research (2021-2022) 
+### Learning Journey
 
-- 👀 I’m interested in learning: programming (Python, SQL, R), Data Analysis
-- 🌱 I’m currently enrolled at: 
-- MITx 6.00.1x, 
-- Michigan University Python4Everybody 
+* 2016-22: Medicine School @LMU Munich
+* 2021-22: Ovarian Cancer Research @LMU Munich Medical Research School @LMU Hospital
+
+* since 2022: Self learning to program at:
+[MITx Introduction to Computer Science and Programming Using Python 6.00.1x ](https://www.edx.org/course/introduction-to-computer-science-and-programming-7).
+[University of Michigan Python for Everybody](https://www.coursera.org/specializations/python).
+
+### Programming Languages
+* Python 
+* SQL 
+
+### Learning Interests
+* Data Analysis
+* Software Engineering
+* Digital Health
+
 
 
 
