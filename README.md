@@ -14,7 +14,7 @@
 * SQL 
 
 ### My Projects
-* [Repository](https://github.com/Karoline0097/Introduction-to-Computer-Science-and-Programming-Using-Python) from [MITx Introduction to Computer Science and Programming Using Python 6.00.1x ](https://www.edx.org/course/introduction-to-computer-science-and-programming-7)
+* [Repository](https://github.com/Karoline0097/Introduction-to-Computer-Science-and-Programming-Using-Python) from my participation in [MITx Introduction to Computer Science and Programming Using Python 6.00.1x ](https://www.edx.org/course/introduction-to-computer-science-and-programming-7)
 
 ### Learning Interests
 * Data Analysis
