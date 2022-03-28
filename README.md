@@ -1,13 +1,11 @@
-## 🌱 About 🔬
+## 🌱 About Me🔬
 
-### Learning Journey
+### Learning Progress
 
 * since 2022: Self learning to program with:
 * [MITx Introduction to Computer Science and Programming Using Python 6.00.1x ](https://www.edx.org/course/introduction-to-computer-science-and-programming-7).
 * [University of Michigan Python for Everybody](https://www.coursera.org/specializations/python).
 
-* 2021-22: Ovarian Cancer Research @LMU Munich Medical Research School @LMU Hospital
-* 2016-22: Medicine School @LMU Munich
 
 ### Programming Languages 
 * Python 
@@ -22,6 +20,9 @@
 * Software Engineering
 * Digital Health
 
+### Bio
+* 2021-22: Ovarian Cancer Research @LMU Munich Medical Research School @LMU Hospital
+* 2016-22: Medicine School @LMU Munich
 
 
 
