@@ -12,6 +12,7 @@
 * SQL 
 
 ### My Projects
+* Repository (private) from my working student job at Finepower GmbH
 * [Repository](https://github.com/Karoline0097/Introduction-to-Computer-Science-and-Programming-Using-Python) from my participation in [MITx Introduction to Computer Science and Programming Using Python 6.00.1x ](https://www.edx.org/course/introduction-to-computer-science-and-programming-7)
 * [Repository](https://github.com/Karoline0097/University-of-Michigan-Python-for-Everybody) from my participation in [University of Michigan Python for Everybody](https://www.coursera.org/specializations/python)
 
@@ -21,6 +22,7 @@
 * Digital Health
 
 ### Bio
+* since 2022: Working Student @Finepower GmbH Munich
 * 2021-22: Ovarian Cancer Research @LMU Munich Medical Research School @LMU Hospital
 * 2016-22: Medicine School @LMU Munich
 
