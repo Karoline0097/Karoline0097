@@ -7,9 +7,12 @@
 * [University of Michigan Python for Everybody](https://www.coursera.org/specializations/python).
 
 
-### Programming Languages 
+### Programming Language
 * Python 
 * SQL 
+
+### Database
+* SQLite
 
 ### My Projects
 * Repository (private) from my working student job at Finepower GmbH
@@ -17,9 +20,9 @@
 * [Repository](https://github.com/Karoline0097/University-of-Michigan-Python-for-Everybody) from my participation in [University of Michigan Python for Everybody](https://www.coursera.org/specializations/python)
 
 ### Learning Interests
-* Data Analysis
 * Software Engineering
 * Digital Health
+* Data Analysis
 
 ### Bio
 * since 2022: Working Student @Finepower GmbH Munich
