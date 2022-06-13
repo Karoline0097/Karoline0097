@@ -6,6 +6,7 @@ After all, good software is also a crucial part of healthcare!
 # Learning Progress
 * Self learning to program since 02/22 with:
 * Hands On Project: Working Student in Software Development @Finepower Gmbh
+* [Software Development Lifecycle](https://www.coursera.org/specializations/software-development-lifecycle?)
 * [MITx Introduction to Computer Science and Programming Using Python 6.00.1x ](https://www.edx.org/course/introduction-to-computer-science-and-programming-7).
 * [University of Michigan Python for Everybody](https://www.coursera.org/specializations/python).
 
