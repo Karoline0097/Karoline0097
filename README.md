@@ -29,18 +29,19 @@ After all, good software is also a crucial part of healthcare!
 * IDE: PyCharm Community Edition
 * Programming Languages: Python, SQL
 * Database: SQLite (serverless SQL database engine)
-* Libraries: must all be open source
+* Libraries: must all be Open Source
 * Development Method: OOP
 ### Software Architecture: Layered Model
 * UI
 * Application Logic
 * SQLite Database
-* Mouser and Farnell Web APIs
+* Mouser and Farnell Web APIs (JSON)
 
 
 ## Online Courses and Projects: 
 * [Repository](https://github.com/Karoline0097/Introduction-to-Computer-Science-and-Programming-Using-Python) from my participation in [MITx Introduction to Computer Science and Programming Using Python 6.00.1x ](https://www.edx.org/course/introduction-to-computer-science-and-programming-7)
 * [Repository](https://github.com/Karoline0097/University-of-Michigan-Python-for-Everybody) from my participation in [University of Michigan Python for Everybody](https://www.coursera.org/specializations/python)
+* Currently enrolled: [Software Development Lifecycle](https://www.coursera.org/specializations/software-development-lifecycle?)
 
 
 ## Learning Interests:
