@@ -47,7 +47,7 @@ After all, good software is also a crucial part of healthcare!
 
 ## Learning Interests:
 * Software Development Life Cycle
-* Software Engineering
+* Software Engineering, C++
 * UI Design
 * APIs
 * Relational Databases, PostgreSQL, MySQL
