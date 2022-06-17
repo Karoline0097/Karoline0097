@@ -21,6 +21,7 @@ After all, good software is also a crucial part of healthcare!
 
 ## BOM App @Finepower: 
 * [Private Repository](https://github.com/Karoline0097/BOM_finepower/blob/main/README.md) from my working student job @Finepower GmbH
+* Interviews: Reposirory is private, but can be presented via screenshare
 ## Development of an in-house application for process optimization
 * Automate search, managment and order of hundreds of PCB components for PCB prototype assembly with two of the biggest hardware suppliers Mouser and Farnell 
 * Optimized for current supply shortages of power electronics products
