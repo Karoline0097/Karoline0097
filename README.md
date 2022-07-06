@@ -1,14 +1,16 @@
 # 🌱 About Me 🔬
 Welcome on my profile! 
-I am Karoline, about to finish my studies in Medicine. My desire for innovative thinking and developing led me to discover my passion for programming. My current hands-on software project as a working student further encourages me to make a lateral move into IT/ Software Development. I am curious to learn more about software, data and programming to solve real-world problems as part of a diverse team. 
-After all, good software is also a crucial part of healthcare!
+I am Karoline, about to finish my studies in Medicine. My desire for innovative thinking and developing led me to discover my passion for programming. My current hands-on software project as a working student further encourages me to dive deeper into IT/ Software Development. I am curious to learn more about software, data and programming to solve real-world problems as part of a diverse team. 
 
-# Learning Progress
-* Self learning to program since 02/22 with:
+# Learning Progress: Self learning to program since 02/22 with:
 * Hands On Project: Working Student in Software Development @Finepower Gmbh
-* [Software Development Lifecycle](https://www.coursera.org/specializations/software-development-lifecycle?)
-* [MITx Introduction to Computer Science and Programming Using Python 6.00.1x ](https://www.edx.org/course/introduction-to-computer-science-and-programming-7).
-* [University of Michigan Python for Everybody](https://www.coursera.org/specializations/python).
+* [University of Minnesota: Software Development Lifecycle](https://www.coursera.org/specializations/software-development-lifecycle?) (Currently enrolled)
+* [Tutorials on Object Oriented Programming]()
+* [Tutorials on Data Structures & Algorithms]()
+* [Tutorials on SQL and Databases]()
+* [Tutorials on APIs]()
+* [MITx: Introduction to Computer Science and Programming Using Python 6.00.1x ](https://www.edx.org/course/introduction-to-computer-science-and-programming-7) (Successfully completed)
+* [University of Michigan: Python for Everybody](https://www.coursera.org/specializations/python) (Successfully completed)
 
 # Programming Languages
 * Python 
@@ -21,7 +23,7 @@ After all, good software is also a crucial part of healthcare!
 
 ## BOM App @Finepower: 
 * [Private Repository](https://github.com/Karoline0097/BOM_finepower/blob/main/README.md) from my working student job @Finepower GmbH
-* Interviews: Reposirory is private, but can be presented via screenshare
+* Interviews: Reposirory is private, but can be presented & explained via screenshare
 ## Development of an in-house application for process optimization
 * Automate search, managment and order of hundreds of PCB components for PCB prototype assembly with two of the biggest hardware suppliers Mouser and Farnell 
 * Optimized for current supply shortages of power electronics products
@@ -53,6 +55,7 @@ After all, good software is also a crucial part of healthcare!
 * APIs
 * Relational Databases, PostgreSQL, MySQL
 * Data Analysis
+* C#
 ...
 
 
