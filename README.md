@@ -39,13 +39,14 @@ Working Student in Software Development [@Finepower Gmbh](https://www.finepower.
 * Database: SQLite (serverless SQL database engine)
 * Libraries: must all be Open Source
 * Development Method: OOP
-* [Mouser API] (https://www.mouser.de/api-hub/)
-* [Farnell API] (https://partner.element14.com/docs/Product_Search_API_REST__Description)
+
 ### Software Architecture: Layered Model
 * UI
 * Application Logic
 * SQLite Database
 * Mouser and Farnell Web APIs (JSON)
+* [Mouser API](https://www.mouser.de/api-hub/)
+* [Farnell API](https://partner.element14.com/docs/Product_Search_API_REST__Description)
 
 ### Screenshots of BOM Tool:
 
