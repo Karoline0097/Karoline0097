@@ -47,12 +47,12 @@ I am Karoline, about to finish my studies in Medicine. My desire for innovative 
 * Work with csv and db files 
 ![CSV and DB Files](https://user-images.githubusercontent.com/96637498/177588030-42104065-5d29-445b-a463-ef1fa149d429.png)
 * Search & Update Product Results from Mouser & Farnell APIs
-* choose a product for order with pulldown menu 
-* visually display product status
+* choose a product for order with pulldown menu
+* visually display status of choosen product
 ![Bildschirmfoto 2022-07-06 um 17 26 01](https://user-images.githubusercontent.com/96637498/177593423-e8bfcdda-69d3-49d1-8729-0fbd57f1dff9.png)
 * view more information on a PCB Component (related Part Options, Search Results...)
-* choose a product for order with pulldown menu 
 ![Bildschirmfoto 2022-07-06 um 17 26 10](https://user-images.githubusercontent.com/96637498/177593501-579ee2a1-c236-48de-90d5-00ff7e6be9fd.png)
+![Bildschirmfoto 2022-07-06 um 17 26 44](https://user-images.githubusercontent.com/96637498/177594007-a47b37da-3cfa-459a-95d4-a3c8dfd51a7e.png)
 * manually add own part options for a pcb component
 * this function provides more flexibility which is needed due to current supply shortages
 ![Bildschirmfoto 2022-07-06 um 17 27 51](https://user-images.githubusercontent.com/96637498/177589106-9271a5dd-f940-447c-b4e4-85c44775dab3.png)
