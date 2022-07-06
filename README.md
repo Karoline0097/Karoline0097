@@ -7,6 +7,7 @@ I am Karoline, about to finish my studies in Medicine. My desire for innovative 
 Working Student in Software Development [@Finepower Gmbh](https://www.finepower.com/)
 #  Online Resources:
 * [University of Minnesota: Software Development Lifecycle](https://www.coursera.org/specializations/software-development-lifecycle?) (Currently enrolled)
+* [Tutorials on Software Design](https://www.youtube.com/playlist?list=PLjtYWQ9arEeoQXFb5hCNQsJe21fN9gXM8), [ArjanCodes](https://www.youtube.com/c/ArjanCodes)
 * [Tutorials on Object Oriented Programming](https://www.youtube.com/playlist?list=PLjtYWQ9arEer1pn0J8rLKqAX2ywhaxP1P)
 * [Tutorials on Data Structures & Algorithms](https://www.youtube.com/playlist?list=PLjtYWQ9arEeplkZbRAkAOCXI0AWTjXMDy)
 * [Tutorials on SQL and Databases](https://www.youtube.com/playlist?list=PLjtYWQ9arEepgFfGrMu356RK3VUc2jRqM)
@@ -38,7 +39,7 @@ Working Student in Software Development [@Finepower Gmbh](https://www.finepower.
 * Programming Languages: Python, SQL
 * Database: SQLite (serverless SQL database engine)
 * Libraries: must all be Open Source
-* Development Method: OOP
+* Development Method: OOP, FP
 
 ### Software Architecture: Layered Model
 * UI
