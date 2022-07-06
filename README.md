@@ -49,18 +49,18 @@ I am Karoline, about to finish my studies in Medicine. My desire for innovative 
 * Search & Update Product Results from Mouser & Farnell APIs
 * choose a product for order with pulldown menu 
 * visually display product status
-![Bildschirmfoto 2022-07-06 um 17 26 01](https://user-images.githubusercontent.com/96637498/177588264-19a7cd23-67cc-4eaf-8ae1-ecca70d9e0f0.png)
+![Bildschirmfoto 2022-07-06 um 17 26 01](https://user-images.githubusercontent.com/96637498/177593423-e8bfcdda-69d3-49d1-8729-0fbd57f1dff9.png)
 * view more information on a PCB Component (related Part Options, Search Results...)
 * choose a product for order with pulldown menu 
-![Bildschirmfoto 2022-07-06 um 17 26 10](https://user-images.githubusercontent.com/96637498/177588746-f61ae28f-2e30-4071-9f05-5fb2c254f562.png)
-![Bildschirmfoto 2022-07-06 um 17 26 44](https://user-images.githubusercontent.com/96637498/177588902-710f2de3-b5e7-40b5-9c7d-783ce8863420.png)
+![Bildschirmfoto 2022-07-06 um 17 26 10](https://user-images.githubusercontent.com/96637498/177593501-579ee2a1-c236-48de-90d5-00ff7e6be9fd.png)
 * manually add own part options for a pcb component
 * this function provides more flexibility which is needed due to current supply shortages
 ![Bildschirmfoto 2022-07-06 um 17 27 51](https://user-images.githubusercontent.com/96637498/177589106-9271a5dd-f940-447c-b4e4-85c44775dab3.png)
 * keep track of actions performed by your colleagues via comment section and action log
 ![Bildschirmfoto 2022-07-06 um 17 28 33](https://user-images.githubusercontent.com/96637498/177589303-9184ce3b-9d5b-4fd6-9fe2-925db79d00f4.png)
 * automaticaaly create carts with Mouser and Farnell APIs
-![Bildschirmfoto 2022-07-06 um 17 28 54](https://user-images.githubusercontent.com/96637498/177589394-7b7fb4c5-3c2d-458c-859b-f0cd564b0bea.png)
+![Bildschirmfoto 2022-07-06 um 17 28 54](https://user-images.githubusercontent.com/96637498/177593642-1c5003b8-a663-4445-b9da-f8c460183adc.png)
+
 
 
 ## Online Courses and Projects: 
