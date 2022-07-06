@@ -44,22 +44,28 @@ I am Karoline, about to finish my studies in Medicine. My desire for innovative 
 * Mouser and Farnell Web APIs (JSON)
 
 ### Screenshots of BOM Tool:
+
 * Work with csv and db files 
 ![CSV and DB Files](https://user-images.githubusercontent.com/96637498/177588030-42104065-5d29-445b-a463-ef1fa149d429.png)
+
 * Search & Update Product Results from Mouser & Farnell APIs
 * choose a product for order with pulldown menu
 * visually display status of choosen product
-![Bildschirmfoto 2022-07-06 um 17 26 01](https://user-images.githubusercontent.com/96637498/177593423-e8bfcdda-69d3-49d1-8729-0fbd57f1dff9.png)
+![Bildschirmfoto 2022-07-06 um 17 26 01](https://user-images.githubusercontent.com/96637498/177594821-d4ac3a4b-acd2-4e38-815d-d1a17e2cd510.png)
+
 * view more information on a PCB Component (related Part Options, Search Results...)
-![Bildschirmfoto 2022-07-06 um 17 26 10](https://user-images.githubusercontent.com/96637498/177593501-579ee2a1-c236-48de-90d5-00ff7e6be9fd.png)
+![Bildschirmfoto 2022-07-06 um 17 26 10](https://user-images.githubusercontent.com/96637498/177594924-ee55dab0-7e6d-40a9-bb8f-2cfaa20d37a3.png)
 ![Bildschirmfoto 2022-07-06 um 17 26 44](https://user-images.githubusercontent.com/96637498/177594007-a47b37da-3cfa-459a-95d4-a3c8dfd51a7e.png)
+
 * manually add own part options for a pcb component
 * this function provides more flexibility which is needed due to current supply shortages
 ![Bildschirmfoto 2022-07-06 um 17 27 51](https://user-images.githubusercontent.com/96637498/177589106-9271a5dd-f940-447c-b4e4-85c44775dab3.png)
+
 * keep track of actions performed by your colleagues via comment section and action log
 ![Bildschirmfoto 2022-07-06 um 17 28 33](https://user-images.githubusercontent.com/96637498/177589303-9184ce3b-9d5b-4fd6-9fe2-925db79d00f4.png)
+
 * automaticaaly create carts with Mouser and Farnell APIs
-![Bildschirmfoto 2022-07-06 um 17 28 54](https://user-images.githubusercontent.com/96637498/177593642-1c5003b8-a663-4445-b9da-f8c460183adc.png)
+![Bildschirmfoto 2022-07-06 um 17 28 54](https://user-images.githubusercontent.com/96637498/177595020-bec0fd84-4b30-4137-95f7-cadba468dd82.png)
 
 
 
