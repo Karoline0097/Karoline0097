@@ -5,10 +5,12 @@ I am Karoline, about to finish my studies in Medicine. My desire for innovative 
 # Learning Progress: Self learning to program since 02/22 with:
 * Hands On Project: Working Student in Software Development @Finepower Gmbh
 * [University of Minnesota: Software Development Lifecycle](https://www.coursera.org/specializations/software-development-lifecycle?) (Currently enrolled)
-* [Tutorials on Object Oriented Programming]()
-* [Tutorials on Data Structures & Algorithms]()
-* [Tutorials on SQL and Databases]()
-* [Tutorials on APIs]()
+* [Tutorials on Object Oriented Programming](https://www.youtube.com/playlist?list=PLjtYWQ9arEer1pn0J8rLKqAX2ywhaxP1P)
+* [Tutorials on Data Structures & Algorithms](https://www.youtube.com/playlist?list=PLjtYWQ9arEeplkZbRAkAOCXI0AWTjXMDy)
+* [Tutorials on SQL and Databases](https://www.youtube.com/playlist?list=PLjtYWQ9arEepgFfGrMu356RK3VUc2jRqM)
+* [Tutorials on APIs](https://www.youtube.com/playlist?list=PLjtYWQ9arEera8NdZtcqHyrc9sg97E6Qf)
+* [Tutorials on UIs](https://www.youtube.com/playlist?list=PLjtYWQ9arEer8BWPit7a1XXUgxax-0Dem)
+* [Tutorials on Python Programming](https://www.youtube.com/playlist?list=PLjtYWQ9arEeroYETt-jVWow2mX-enhrsZ)
 * [MITx: Introduction to Computer Science and Programming Using Python 6.00.1x ](https://www.edx.org/course/introduction-to-computer-science-and-programming-7) (Successfully completed)
 * [University of Michigan: Python for Everybody](https://www.coursera.org/specializations/python) (Successfully completed)
 
