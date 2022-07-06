@@ -37,6 +37,8 @@ I am Karoline, about to finish my studies in Medicine. My desire for innovative 
 * Database: SQLite (serverless SQL database engine)
 * Libraries: must all be Open Source
 * Development Method: OOP
+* [Mouser API] (https://www.mouser.de/api-hub/)
+* [Farnell API] (https://partner.element14.com/docs/Product_Search_API_REST__Description)
 ### Software Architecture: Layered Model
 * UI
 * Application Logic
