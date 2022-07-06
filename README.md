@@ -3,7 +3,7 @@ Welcome on my profile!
 I am Karoline, about to finish my studies in Medicine. My desire for innovative thinking and developing led me to discover my passion for programming. My current hands-on software project as a working student further encourages me to dive deeper into IT/ Software Development. I am curious to learn more about software, data and programming to solve real-world problems as part of a diverse team. 
 
 # Learning Progress: Self learning to program since 02/22 with:
-* Hands On Project: Working Student in Software Development @Finepower Gmbh
+* Hands On Project: Working Student in Software Development [@Finepower Gmbh](https://www.finepower.com/)
 * [University of Minnesota: Software Development Lifecycle](https://www.coursera.org/specializations/software-development-lifecycle?) (Currently enrolled)
 * [Tutorials on Object Oriented Programming](https://www.youtube.com/playlist?list=PLjtYWQ9arEer1pn0J8rLKqAX2ywhaxP1P)
 * [Tutorials on Data Structures & Algorithms](https://www.youtube.com/playlist?list=PLjtYWQ9arEeplkZbRAkAOCXI0AWTjXMDy)
@@ -23,7 +23,7 @@ I am Karoline, about to finish my studies in Medicine. My desire for innovative 
 
 # My Projects:
 
-## BOM App @Finepower: 
+## BOM App [@Finepower Gmbh](https://www.finepower.com/): 
 * [Private Repository](https://github.com/Karoline0097/BOM_finepower/blob/main/README.md) from my working student job @Finepower GmbH
 * Repository is private, but code & application can be presented & explained via screenshare
 ## Development of an in-house application for process optimization
