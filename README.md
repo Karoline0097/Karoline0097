@@ -1,4 +1,4 @@
-# 🌱 About Me 🔬
+# 🌱 About Me 
 Welcome on my profile! 
 I am Karoline, about to finish my studies in Medicine. My desire for innovative thinking and developing led me to discover my passion for programming. My current hands-on software project as a working student further encourages me to dive deeper into IT/ Software Development. I am curious to learn more about software, data and programming to solve real-world problems as part of a diverse team. 
 
@@ -10,41 +10,60 @@ Working Student in Software Development [@Finepower Gmbh](https://www.finepower.
 * [Tutorials on Software Design](https://www.youtube.com/playlist?list=PLjtYWQ9arEeoQXFb5hCNQsJe21fN9gXM8), [ArjanCodes](https://www.youtube.com/c/ArjanCodes)
 * [Tutorials on Object Oriented Programming](https://www.youtube.com/playlist?list=PLjtYWQ9arEer1pn0J8rLKqAX2ywhaxP1P)
 * [Tutorials on Data Structures & Algorithms](https://www.youtube.com/playlist?list=PLjtYWQ9arEeplkZbRAkAOCXI0AWTjXMDy)
-* [Tutorials on SQL and Databases](https://www.youtube.com/playlist?list=PLjtYWQ9arEepgFfGrMu356RK3VUc2jRqM)
+* [Tutorials on SQL, Databases, DBMS](https://www.youtube.com/playlist?list=PLjtYWQ9arEepgFfGrMu356RK3VUc2jRqM)
 * [Tutorials on APIs](https://www.youtube.com/playlist?list=PLjtYWQ9arEera8NdZtcqHyrc9sg97E6Qf)
 * [Tutorials on UIs](https://www.youtube.com/playlist?list=PLjtYWQ9arEer8BWPit7a1XXUgxax-0Dem)
 * [Tutorials on Python Programming](https://www.youtube.com/playlist?list=PLjtYWQ9arEeroYETt-jVWow2mX-enhrsZ)
+* [Tutorials on VCS (Git) & IDEs](https://www.youtube.com/playlist?list=PLjtYWQ9arEepuevbWPhrMyBvn8IR41IQM)
 * [MITx: Introduction to Computer Science and Programming Using Python 6.00.1x ](https://www.edx.org/course/introduction-to-computer-science-and-programming-7) (Successfully completed)
 * [University of Michigan: Python for Everybody](https://www.coursera.org/specializations/python) (Successfully completed)
 
 # Programming Languages
 * Python 
-* SQL 
-# Relational Databases
-* SQLite
 
+# Relational Databases (SQL)
+* DBMS: SQLite, MySQL
+# Non-Relational Databases (NoSQL)
+* JSON, XML
 
 # My Projects:
 
-## BOM App [@Finepower Gmbh](https://www.finepower.com/): 
-* [Private Repository](https://github.com/Karoline0097/BOM_finepower/blob/main/README.md) from my working student job @Finepower GmbH
-* Repository is private, but code & application can be presented & explained via screenshare
-## Development of an in-house application for process optimization
-* Automate search, managment and order of hundreds of PCB components for PCB prototype assembly with two of the biggest hardware suppliers Mouser and Farnell 
-* Optimized for current supply shortages of power electronics products
-### Requirements: The Problem
-*	Before prototype assembly, the engineer chooses an appropriate manufacturer part number for each electric component on a PCB
-*	Manual search by the engineer with supplier websites (Mouser, Farnell ...) is a very time-consuming process, especially now due to current supply shortages in the hardware industry
+## Bill of Material (BOM) Application [@Finepower Gmbh](https://www.finepower.com/): 
+* [Private Repository](https://github.com/Karoline0097/BOM_finepower/blob/main/README.md) from my working student job [@Finepower Gmbh](https://www.finepower.com/)
+* Private Repository, code & application can be presented & explained via screenshare
+
+### Development of an in-house application for process optimization
+* Automate search, managment and order of hundreds of PCB components for PCB prototype assembly with big hardware suppliers Mouser and Farnell 
+* Optimized for current supply shortages of power electronic products
+
+### Requirements
+* PCBs are designed by hardware engineers using a pcb software (Eagle). For each electric component on this PCB, an appropriate manufacturer part number that fulfills the requirements for the component is choosen by the hardware engineer. Before PCB prototype assembly in the company, a bill of material (BOM) with all electric components with those manufacturer part numbers  is created. For each item on the BOM, a product must be choosen and ordered from hardware supplier online shops (Mouser, Farnell...).
+* Problem to solve: 
+Manual search of all products by the hardware enigneer and creation of carts by the office manager are very time-consuming processes. Especially now due to current supply shortages in the hardware industry, a considerable amount of working time is spent searching the online shops of hardware suppliers repeatedly for every component on the PCB.
+### Functional Requirements
+* User Groups: Hardware Engineers, Office Manager
+* Application Period: Between completion of PCB Design and before PCB prototype assembly
+*	Several hardware engineers work together on the same PCB. Therefore, the BOM inside the application will be created, edited and contributed to by multiple users over a period of time. The application should keep track of sources of manufacturer part numbers and relevant changes to a BOM (with a timestamp and user responsible for the action).
+* A BOM consists of many PCB components, for each of witch a manufacturer part number is predefined by the hardware engineer inside the PCB design software. All products for each of those manufacturer part numbers should be searched with hardware suppliers, displayed in an user-friendly way and saveable for later work (with the same or another user).
+*	When a product is available for order and its manufacturerer part number exactly matches part number from csv/user, it should be preselected, else nothing should be preselected
+*	visually display / give quick overview over all available product options
+*	prevent false orders
+*	send all choosen products, ready to order, to office assistant who orders created carts
+*	user can manually add other part options that he judges are appropriate alternatives for a pcb component
+*	users can remove part options from csv/user if they judge them to be inappropriate
+* all product order choices are made by user
+
+### Process/ System Design Requirements
 * IDE: PyCharm Community Edition
-* Programming Languages: Python, SQL
-* Database: SQLite (serverless SQL database engine)
+* Programming Language: Python
+* Database: SQLite (serverless SQL DBMS)
 * Libraries: must all be Open Source
 * Development Method: OOP, FP
 
 ### Software Architecture: Layered Model
 * UI
 * Application Logic
-* SQLite Database
+* SQL Relational Database & SQLite DBMS
 * Mouser and Farnell Web APIs (JSON)
 * [Mouser API](https://www.mouser.de/api-hub/)
 * [Farnell API](https://partner.element14.com/docs/Product_Search_API_REST__Description)
