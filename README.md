@@ -43,28 +43,27 @@ Manual search of all products by the hardware enigneer and creation of carts by 
 ### Functional Requirements
 * User Groups: Hardware Engineers, Office Manager
 * Application Period: Between completion of PCB Design and before PCB prototype assembly
+* Files: csv file with PCB components imported from PCB Design Software, database file to save BOM to/open existung BOM
 *	Several hardware engineers work together on the same PCB. Therefore, the BOM inside the application will be created, edited and contributed to by multiple users over a period of time. The application should keep track of sources of manufacturer part numbers and relevant changes to a BOM (with a timestamp and user responsible for the action).
-* A BOM consists of many PCB components, for each of witch a manufacturer part number is predefined by the hardware engineer inside the PCB design software. All products for each of those manufacturer part numbers should be searched with hardware suppliers, displayed in an user-friendly way and saveable for later work (with the same or another user).
-*	When a product is available for order and its manufacturerer part number exactly matches part number from csv/user, it should be preselected, else nothing should be preselected
-*	visually display / give quick overview over all available product options
-*	prevent false orders
-*	send all choosen products, ready to order, to office assistant who orders created carts
-*	user can manually add other part options that he judges are appropriate alternatives for a pcb component
-*	users can remove part options from csv/user if they judge them to be inappropriate
-* all product order choices are made by user
+* A BOM consists of many PCB components, for each of witch a manufacturer part number is predefined by the hardware engineer inside the PCB design software. For each of those manufacturer part numbers, products should be automatically searched with hardware suppliers, presented in an user-friendly way and saveable for later work (with the same or another user).
+* The choice between multiple search results for a PCB component is faciliated by usre-friendly display of product availability, properties like minimum order quantity, and match between manufacturer part numbers of BOM item and search result. The application can preselect a suitable product for order, however, ultimate choice will be done by the hardware engineer.
+* For one PCB component, several manufacturer part numbers can be added either by csv import or by the user inside the application. 
+*	Once completed, the BOM with all products selected for order will be send to the office manager who can automatically create corresponding carts with supplier online shops. Automated ordering is not allowed due to legal regulations and must therefore be performed manually by the office manager.
+*	Software should be easily maintainable and extendable (e.g. more suppliers) later on
 
 ### Process/ System Design Requirements
 * IDE: PyCharm Community Edition
 * Programming Language: Python
-* Database: SQLite (serverless SQL DBMS)
-* Libraries: must all be Open Source
-* Development Method: OOP, FP
+* Database: SQL Relational Database, serverless DBMS SQLite 
+* Libraries/Frameworks: must all be Open Source
+* Development Method: OOP / FP
+* Files: csv, db
 
 ### Software Architecture: Layered Model
 * UI
 * Application Logic
 * SQL Relational Database & SQLite DBMS
-* Mouser and Farnell Web APIs (JSON)
+* Mouser, Farnell Web APIs (JSON)
 * [Mouser API](https://www.mouser.de/api-hub/)
 * [Farnell API](https://partner.element14.com/docs/Product_Search_API_REST__Description)
 
